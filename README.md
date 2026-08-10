@@ -52,18 +52,18 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
-| Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [ ]       |
-|                | Assessment Methodologies - Footprinting and Scanning| [ ]       |
-| Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [ ]       |
-|                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [ ]       |
-|                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
-|                |  [Active Recon](https://tryhackme.com/room/activerecon)| [ ]       |
-|                |  [Nmap](https://tryhackme.com/room/furthernmap) | [ ]       |
-| Blogs           |  [Ethical Hacking: 5 Phases, Techniques, and Tools](https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e)| [ ]       |
-|                |  [Active vs Passive Recon](https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7)| [ ]       |
-|                |  [Understanding Reconnaissance and Foorprinting in Ethical Hacking](https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619)| [ ]       |
-|                |  [CompTIA Security+: Vulnerability Scanning and Penetration Testing](https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/)| [ ]       |
-|                |  [Nmap](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)| [ ]       |
+| Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [x]       |
+|                | Assessment Methodologies - Footprinting and Scanning| [x]       |
+| Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [x]       |
+|                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [x]       |
+|                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [x]       |
+|                |  [Active Recon](https://tryhackme.com/room/activerecon)| [x]       |
+|                |  [Nmap](https://tryhackme.com/room/furthernmap) | [x]       |
+| Blogs           |  [Ethical Hacking: 5 Phases, Techniques, and Tools](https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e)| [x]       |
+|                |  [Active vs Passive Recon](https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7)| [x]       |
+|                |  [Understanding Reconnaissance and Foorprinting in Ethical Hacking](https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619)| [x]       |
+|                |  [CompTIA Security+: Vulnerability Scanning and Penetration Testing](https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/)| [x]       |
+|                |  [Nmap](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)| [x]       |
 
 
 <hr>
@@ -72,10 +72,10 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
-| Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [ ]       |
-| Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
-|        |  [Network Services](https://tryhackme.com/room/networkservices)| [ ]       |
-|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
+| Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [x]       |
+| Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [x]       |
+|        |  [Network Services](https://tryhackme.com/room/networkservices)| [x]       |
+|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [x]       |
 |        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [ ]       |
 |        |  [Remote port and service enumeration – nmap](https://linuxconcept.com/remote-port-and-service-enumeration-nmap/)| [ ]       |
 |        |  [Enumerate SMB with Enum4linux & Smbclient](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/)| [ ]       |
@@ -94,12 +94,12 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
 |  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
 |  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
-| Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
-|        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
-|        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
-|        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [ ]       |
+| Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [x]       |
+|        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [x]       |
+|        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [x]       |
+|        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [x]       |
 |  Blogs   |  [Vulnerability Research 101](https://www.rezilion.com/blog/vulnerability-research-101/)| [ ]       |
-|        |  [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)| [ ]       |
+|        |  [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)| [x]       |
 |        |  [Working with Exploits: Using Exploit-DB to find Exploits](https://www.hackers-arise.com/post/working-with-exploits-using-exploit-db-to-find-exploits)| [ ]       |
 |        |  [Attacking SMB via Metasploit and PSexec](https://michaelkoczwara.medium.com/attacking-smb-via-metasploit-and-psexec-734c7be88190)| [ ]       |
 
@@ -113,9 +113,9 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing - System/Host Based Attack (Remaining part)   | [ ]       |
 |      | Host & Network Penetration Testing: Network-Based Attacks | [ ] | 
-| TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [ ]       |
+| TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [x]       |
 |    |  [Ice](https://tryhackme.com/room/ice)| [ ]       |
-|  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[ ]|
+|  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[x]|
 | |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[ ]|
 | |[Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)|[ ] |
 | |[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)| [ ] |
@@ -131,9 +131,9 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing: The Metasploit Framework (MSF)   | [ ]       |
-| TryHackme | [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) |[ ] |
-| | [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) |[ ] |
-| | [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) |[ ] |
+| TryHackme | [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) |[] |
+| | [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) |[] |
+| | [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) |[] |
 | | [HeartBleed](https://tryhackme.com/room/heartbleed) |[ ] |
 | | [Deja Vu](https://tryhackme.com/room/dejavu) |[ ] |
 | Blogs | [Metasploit Tutorial for Beginners – Basics to Advanced](https://nooblinux.com/metasploit-tutorial/) |[ ] |
@@ -191,10 +191,10 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing: Social Engineering   | [ ]       |
 |   | Web Application Penetration Testing: Introduction to the Web and HTTP   | [ ]       |
-| TryHackMe | [OWASP Top 10](https://tryhackme.com/room/owasptop10)   | [ ]       |
+| TryHackMe | [OWASP Top 10](https://tryhackme.com/room/owasptop10)   | [x]       |
 |  | [Web Enumeration](https://tryhackme.com/room/webenumerationv2)   | [ ]       |
 |  | [SQLMAP](https://tryhackme.com/room/sqlmap) | [ ] |
-|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [ ] |
+|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [] |
 |  | [Blog](https://tryhackme.com/room/blog)   | [ ]       |
 |  | [Vulnversity](https://tryhackme.com/room/vulnversity)   | [ ]       |
 |  | [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
