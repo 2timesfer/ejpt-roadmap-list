@@ -117,8 +117,8 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |    |  [Ice](https://tryhackme.com/room/ice)| [ ]       |
 |  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[x]|
 | |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[ ]|
-| |[Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)|[ ] |
-| |[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)| [ ] |
+| |[Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)|[x] |
+| |[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)| [x] |
 |Blogs|[Privilege Escalation on Linux: When it’s good and when it’s a disaster(with examples)](https://delinea.com/blog/linux-privilege-escalation)|[ ]|
 | | [Tools analysis: linPEAS](https://blog.cyberethical.me/linpeas) | [ ] |
 | | [How to Use Wireshark: Comprehensive Tutorial + Tips](https://www.varonis.com/blog/how-to-use-wireshark) | [ ] |
